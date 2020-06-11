@@ -32,7 +32,9 @@ Your gif here!
 ### Kyle
 Your gif here!
 ### Lindsey
-Your gif here!
+
+![I have no idea what I'm doing left shark gif from Giphy](https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif)
+
 ### Lingxi
 Your gif here!
 ### Mark
