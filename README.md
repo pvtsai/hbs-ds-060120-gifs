@@ -32,7 +32,9 @@ Your gif here!
 ### Kyle
 Your gif here!
 ### Lindsey
-Your gif here!
+
+![friday cat gif from giphy](https://media.giphy.com/media/xUOwGimhnO8wBe1nLa/giphy.gif)
+
 ### Lingxi
 Your gif here!
 ### Mark
