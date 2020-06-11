@@ -8,7 +8,7 @@ Check the "Pull requests" tab to see both merged and unmerged examples of what y
 ### Adebodun
 Your gif here!
 ### Ammar
-Your gif here!
+![What happens when I press the green button](https://pic.funnygifsbox.com/uploads/2019/11/funnygifsbox.com-2019-11-12-11-10-46-10.gif)
 ### Andy
 ![Computers are hard](images/andy.gif)
 ### Aziz
