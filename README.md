@@ -10,7 +10,7 @@ Your gif here!
 ### Ammar
 Your gif here!
 ### Andy
-Your gif here!
+![Computers are hard](images/andy.gif)
 ### Aziz
 Your gif here!
 ### Carmi
