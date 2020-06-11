@@ -1,4 +1,4 @@
-# HBS x FIS Summer 202 gif-stravaganza
+# HBS x FIS Summer 2020 gif-stravaganza
 
 ## Instructions
 Find a GIF or image that summarizes how you're feeling about today being Friday. In a **branch**, add your gif to the images/ directory and embed the GIF using Markdown in this document (or embed a link to the gif directly!). I've provided an example! Then issue a pull request for the instructors to review.
