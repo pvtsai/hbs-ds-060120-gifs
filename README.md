@@ -20,7 +20,7 @@ Your gif here!
 ### Colm
 Your gif here!
 ### Cong
-![Weekly progression] (https://media.giphy.com/media/NCPcywASJGggw/giphy.gif) 
+![I have no idea what I'm doing left shark gif from Giphy](https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif) 
 ### Jay
 Your gif here!
 ### John
