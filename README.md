@@ -54,6 +54,6 @@ Your gif here!
 ### Yazan
 Your gif here!
 ### Yongwei
-Your gif here!
+Haha, no gif
 ### Yuki
 Your gif here!
