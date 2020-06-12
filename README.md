@@ -21,6 +21,7 @@ Your gif here!
 Your gif here!
 ### Cong
 ![I have no idea what I'm doing left shark gif from Giphy](https://media.giphy.com/media/lXiRG1vwLewnehlxS/giphy.gif)
+<iframe src="https://giphy.com/embed/NCPcywASJGggw" width="475" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/friday-monday-NCPcywASJGggw">via GIPHY</a></p> 
 ### Jay
 Your gif here!
 ### John
