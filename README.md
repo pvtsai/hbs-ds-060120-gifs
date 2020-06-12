@@ -42,7 +42,7 @@ Your gif here!
 ### Marta
 Your gif here!
 ### Paige
-Your gif here!
+![I don't know what that is](https://media.giphy.com/media/3o6ZtdmjXxchXJqxHO/giphy.gif)
 ### Quentin
 Your gif here!
 ### Reginald
