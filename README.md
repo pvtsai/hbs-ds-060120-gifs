@@ -20,7 +20,7 @@ Your gif here!
 ### Colm
 Your gif here!
 ### Cong
-(https://gph.is/1JTWG3p)
+https://media.giphy.com/media/NCPcywASJGggw/giphy.gif
 ### Jay
 Your gif here!
 ### John
